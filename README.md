@@ -2,6 +2,11 @@
 
 **standardize_df** provides features to store and execute your operations for standardizing a pandas dataframes.
 
+## Installation
+
+```bash
+pip install standardize-df
+```
 
 ## Overview
 
